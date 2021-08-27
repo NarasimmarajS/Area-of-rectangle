@@ -16,17 +16,17 @@ class AreaOfRectangle
 
          System.out.println("Enter the length:");
 
-         double l= s.nextDouble();
+         double length= s.nextDouble();
 
         System.out.println("Enter the breadth:");
 
-         double b= s.nextDouble();
+         double breadth= s.nextDouble();
 
         
 
           
 
-          double  area=l*b;
+          double  area=length*breadth;
 
       System.out.println("Area of Rectangle is: " + area);      
 
